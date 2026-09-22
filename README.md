@@ -22,3 +22,7 @@ ROS 2 üzerinde çalışan otonom mobil robotlar.
 ### Araçlar
 
 Python · PyTorch · ROS 2 (Humble, Jazzy) · Nav2 · Gazebo · YOLOv8 · OpenCV · Linux
+
+### İletişim
+
+[LinkedIn](https://www.linkedin.com/in/mehmetfurkanketme/) · mehmetfurkanketme@gmail.com
