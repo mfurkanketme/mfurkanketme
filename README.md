@@ -15,18 +15,19 @@ ROS 2 üzerinde çalışan otonom mobil robotlar.
 - **[ddqnlabirent](https://github.com/mfurkanketme/ddqnlabirent):** Dinamik
   koridor ve labirent ortamlarında DDQN ile mobil robot navigasyonu. Curriculum
   learning, güvenlik kalkanı, bulanık kontrolcü ile karşılaştırma ve ablation.
+- **[sirius-amr](https://github.com/mfurkanketme/sirius-amr):** PUSULA takımında
+  takım kaptanı olarak geliştirdiğimiz otonom mobil robot. ROS 2, Nav2, LiDAR,
+  IMU ve enkoder ile navigasyon. TEKNOFEST 2026 Sanayide Robotik Uygulamalar
+  yarışmasında Türkiye 6.'sı olduk.
 - **[teknofest-akilli-fabrika](https://github.com/mfurkanketme/teknofest-akilli-fabrika):**
   TEKNOFEST 2026 Akıllı Fabrika Sistemleri Programlama yarışması çözümleri.
   YOLO ile tabela tespiti, MQTT haberleşme, OpenCV ile renk algılama ve step
   motor kontrol arayüzü. Yarı finalde 2., finalde 7. olduk.
-- **SIRIUS AMR:** PUSULA takımında takım kaptanı olarak geliştirdiğimiz otonom
-  mobil robot. ROS 2, Nav2, LiDAR, IMU ve enkoder ile navigasyon. TEKNOFEST 2026
-  Sanayide Robotik Uygulamalar yarışmasında Türkiye 6.'sı olduk.
-- **Hexapod robot:** Takım kaptanı olarak geliştirdiğimiz, 18 servolu altı
-  bacaklı yürüyen robot. Simülasyonda kurduğumuz ters kinematik ve yürüyüş
-  kontrolünü gerçek donanıma taşıdık; Arduino Mega üzerinden iki ayrı seri
-  hatta ST3020 ve AX-12A servolar sürülüyor, kalibrasyon ve canlı izleme için
-  web arayüzü yazdım.
+- **[hexapod](https://github.com/mfurkanketme/hexapod):** Takım kaptanı olarak
+  geliştirdiğimiz, 18 servolu altı bacaklı yürüyen robot. Simülasyonda kurduğumuz
+  ters kinematik ve yürüyüş kontrolünü gerçek donanıma taşıdık; Arduino Mega
+  üzerinden iki ayrı seri hatta ST3020 ve AX-12A servolar sürülüyor,
+  kalibrasyon ve canlı izleme için web arayüzü yazdım.
 
 ### Araçlar
 
